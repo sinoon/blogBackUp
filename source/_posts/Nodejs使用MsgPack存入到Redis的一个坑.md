@@ -18,7 +18,7 @@ npm install msgpack5 --save
 var msgpack = require('msgpack5')();
 ```
 注意，这里有个小坑，就是引入的时候，必须当做函数运行一下，也就是后面加上那对括号。不然使用的时候，是代码不是调用。
-
+<!--more-->
 普通的使用方式可以和 `JSON.stringify()` && `JSON.parse()` 一样。
 像这样：
 ```js

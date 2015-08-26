@@ -24,6 +24,12 @@ excerpt_link: more
 fancybox: true
 mathjax: true
 
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
 # Miscellaneous
 google_analytics: ''
 favicon: /favicon.png

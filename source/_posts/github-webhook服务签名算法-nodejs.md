@@ -15,7 +15,7 @@ tags: webhook github nodejs
 
 无意中看到`github`提供的`webhook`服务，设置方便，还可以配置签名。
 
-
+<!--more-->
 ## 设置
 
 设置如下：
