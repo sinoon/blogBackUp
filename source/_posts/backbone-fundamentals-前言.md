@@ -5,8 +5,6 @@ tags: backbone-fundamentals
 
 ## 前言
 
-![](img/logo.jpg)
-
 很久以前，“富数据web应用”(data-rich web)是一个矛盾的说法。但现在，这种web应用随处可见，并且你需要知道如何构建它们。
 
 传统意义上来讲，web应用把繁重的数据放置在服务器端，服务器再把载入完成的HTML页面推向浏览器。因此，客户端那边的JavaScript被限制住无法提升用户体验。到了现在，这种情况被转变了——客户端应用可以在需要的地方，从服务器上拉去原始数据并在浏览器里面渲染这些数据。
@@ -22,7 +20,7 @@ tags: backbone-fundamentals
 提升开发者的水平对我来说很重要，这也是为什么我给这本书使用 Creative Commons Atribution-NonCommercial-ShareAlike 3.0 Unported [license](http://creativecommons.org/licenses/by-nc-sa/3.0/).欢迎大家来修正存在的问题，并且我很希望我们可以保持社区一直都有最新的源码。
 
 我还要感谢[Jeremy Ashkenas](https://github.com/jashkenas) 和 [DocumentCloud](http://www.documentcloud.org) 创建了 Backbone.js ，以及[社区成员](https://github.com/addyosmani/backbone-fundamentals/contributors)的贡献使得这个项目的发展完全超出了我的想象。
-
+<!--more-->
 ## 目标读者 
 
 这本书的目标读者是那些希望学习使他们前端代码拥有更好架构的初级到中级开发者。在这本教程里，JavaScript基础是需要的，不过，我会尽可能的提供一些关于这些概念的基本注释。
